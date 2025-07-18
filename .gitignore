@@ -1,3 +1,4 @@
 #ignore compiled binary and image
 render
 image.ppm
+pi
